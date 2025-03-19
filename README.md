@@ -15,5 +15,6 @@ if(!defined('DB_NAME')) define('DB_NAME',"shoplbk_db");
 2. Tạo Database mới
 
 ![image](https://github.com/user-attachments/assets/15040719-4cac-4678-9ffa-ffbbe58c2545)
+
 3. Nhập DB trong thử mục database
 4. Chạy chương trình tại 'localhost/<Tên thư mục>'
